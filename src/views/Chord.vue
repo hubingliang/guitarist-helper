@@ -35,10 +35,10 @@ export default {
 
 <style scoped>
 main {
-  height: 400px;
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 80vh;
 }
 span {
   font-size: 48px;
